@@ -3,4 +3,4 @@ just to generate images
 
 1. ./download_models.sh
 2. pip install -r requirements.txt
-2. Modify and run generate_images.py
+2. Modify and run generate.py
